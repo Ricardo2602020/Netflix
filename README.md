@@ -9,4 +9,4 @@
     <p> - CSS <p/>
      <p> - JavaScript <p/>
     
-<img src="    
+<img src="https://raw.githubusercontent.com/Ricardo2602020/Netflix/188198ed5f9cc9e0bf23e70d24bf7f82dc52089a/img/Clone%20da%20Netflix.png" />    
